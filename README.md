@@ -41,9 +41,9 @@ I recorded all the packets sent by the game to the controller and tried to repea
 The controller can also work in the Nintendo Pro controller mode, I was able to call this mode simply by restarting the computer.
 
 ## Goals
-~~1. Disable and change the light bar;~~
-~~2. Connecting in DualShock 3 mode;~~
-**3. Connect the controller in DualShock 4 mode;**
+1. ~~Disable and change the light bar;~~
+2. ~~Connecting in DualShock 3 mode;~~
+3. **Connect the controller in DualShock 4 mode;**
 4. Connecting in the Nintendo Switch mode;
 
 ## Feedback
