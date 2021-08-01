@@ -34,7 +34,7 @@ If the game Days Gone is running and the controller is reconnected to the PC, th
 
 
 
-I recorded all the packets sent by the game to the controller and tried to repeat them, but it didn't work out, I only managed to reconnect the controller in DualShock 3 mode. Recording USB packets, as well as developments can be found in the [DS4Mode](https://github.com/r57zone/Gamepad-PS-P02/tree/master/Researches/DS4Mode) folder.
+I recorded all the packets sent by the game to the controller and tried to repeat them, but it didn't work out, I only managed to reconnect the controller in DualShock 3 mode. Recording USB packets, as well as developments can be found in the [Researches](https://github.com/r57zone/Gamepad-PS-P02/tree/master/Researches) folder.
 
 
 
