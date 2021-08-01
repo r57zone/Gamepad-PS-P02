@@ -30,20 +30,20 @@ When connecting the controller to the PC, it expects some packets and if these p
 
 
 
-If the game Days Gone is running and the controller is reconnected to the PC, then PSP02 starts working in DualShock 4 mode (the gyroscope and touch panel work).
+If the game Days Gone is running and the controller is reconnected to the PC, then PS-P02 starts working in DualShock 4 mode (the gyroscope and touch panel work).
 
 
 
-I recorded all the packets sent by the game to the controller and tried to repeat them, but it didn't work out, I only managed to reconnect the controller in DualShock 3 mode. Recording USB packets, as well as developments can be found in the [DS4Mode](https://github.com/r57zone/Gamepad-PS-P02/tree/master/DS4Mode) folder.
+I recorded all the packets sent by the game to the controller and tried to repeat them, but it didn't work out, I only managed to reconnect the controller in DualShock 3 mode. Recording USB packets, as well as developments can be found in the [DS4Mode](https://github.com/r57zone/Gamepad-PS-P02/tree/master/Researches/DS4Mode) folder.
 
 
 
 The controller can also work in the Nintendo Pro controller mode, I was able to call this mode simply by restarting the computer.
 
 ## Goals
-1. ~~Disable and change the light bar;~~
-2. ~~Connecting in DualShock 3 mode;~~
-3. Connect the controller in DualShock 4 mode;
+~~1. Disable and change the light bar;~~
+~~2. Connecting in DualShock 3 mode;~~
+**3. Connect the controller in DualShock 4 mode;**
 4. Connecting in the Nintendo Switch mode;
 
 ## Feedback
