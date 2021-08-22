@@ -30,7 +30,7 @@ When connecting the controller to the PC, it expects some packets and if these p
 
 
 
-If the game Days Gone is running and the controller is reconnected to the PC, then PS-P02 starts working in DualShock 4 mode (the gyroscope and touch panel work).
+If the game Days Gone or CyberPunk 2077 is running and the controller is reconnected to the PC, then PS-P02 starts working in DualShock 4 mode (the gyroscope and touch panel work). The lightbar is turned on by a USB package (Researches folder). 
 
 
 
