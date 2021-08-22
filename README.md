@@ -9,6 +9,9 @@ A repository with utilities and studies of the PS-P02 controller. This gamepad i
 You can control the light bar of this controller with using the **P02Customizer** utility. The controller still works in the Xbox gamepad mode, but with a modified light bar.
 
 
+Turning on the light bar (fix it):
+>P02Customizer.exe -e
+
 
 Turning off the light bar:
 >P02Customizer.exe -d
@@ -30,7 +33,7 @@ When connecting the controller to the PC, it expects some packets and if these p
 
 
 
-If the game Days Gone or CyberPunk 2077 is running and the controller is reconnected to the PC, then PS-P02 starts working in DualShock 4 mode (the gyroscope and touch panel work). The lightbar is turned on by a USB package (Researches folder). 
+If the game Days Gone or CyberPunk 2077 is running and the controller is reconnected to the PC, then PS-P02 starts working in DualShock 4 mode (the gyroscope and touch panel work). The lightbar is turned on by a USB package with P02Customizer. 
 
 
 

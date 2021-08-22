@@ -57,12 +57,20 @@ int main(int argc, char *argv[])
 			USBPacket[7] = std::stof(argv[2]);
 			USBPacket[8] = std::stof(argv[3]);
 			printf("Lightbar changed\n");
-		} else {
+		} else if ((argc == 2) && _stricmp(argv[1], "-e") == 0) {
+			USBPacket[1] = 0x01;
+			USBPacket[9] = 0xff;
+			USBPacket[10] = 0xff;
+			printf("Lightbar enabled\n");
+		}
+		else {
 			USBPacket[7] = 255;
 			USBPacket[8] = 255;
 			printf("Lightbar changed\n");
 		}
 
+		hid_write(HidHandle, USBPacket, 31);
+		hid_write(HidHandle, USBPacket, 31);
 		hid_write(HidHandle, USBPacket, 31);
 	}
 
